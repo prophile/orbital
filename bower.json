@@ -1,0 +1,23 @@
+{
+  "name": "orbital",
+  "version": "0.0.1",
+  "authors": [
+    "Alistair Lynn <arplynn+ev@gmail.com>"
+  ],
+  "description": "Orbital: an Escape Velocity game, for OGaM May 2014",
+  "keywords": [
+    "orbital",
+    "escape",
+    "velocity",
+    "game"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
