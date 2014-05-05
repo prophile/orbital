@@ -185,7 +185,7 @@ Identifiers
 
 Identifiers are the internal handles for objects. While previous
 EV games used a 16-bit numeric resource ID, Orbital uses short,
-lowercase, hyphen-separated strings. That is to say, strings matching
-`[a-z0-9-]`.
+camel-case strings. That is to say, strings matching
+`[a-z][a-zA-Z0-9]*`.
 
 [ev]: http://www.ambrosiasw.com/games/ev/ "Escape Velocity, Ambrosia Software"
